@@ -1,0 +1,94 @@
+body{ 
+    background-color: rgb(221, 176, 78);
+}
+h1{
+    font-size: 45px;
+    text-align: center;
+}
+ul{
+    display: flex;
+    font-size: 35px;
+    justify-content: space-around;
+}
+.entradas{
+    background-color: rgb(212, 136, 22);
+    margin: 2px 1000px 2px 2px;
+    position: relative;
+    top: 40px;
+    left: 2px;
+
+    }
+.platoprincipal{
+ position: relative;
+ margin: 2px 850px 2px 2px;
+ top: -235px;
+ left: 430px;
+ background-color: rgb(212, 136, 22);
+}
+.postres{
+    position: relative;
+    margin: 2px 1000px 2px 2px;
+    top: -520px;
+    left:970px;
+    background-color: rgb(212, 136, 22);
+}
+.formulario{
+    position: relative;
+    display: flex;
+    justify-content: space-around ;
+   
+}
+.descrip{
+    position: relative;
+    font-size: 25px;
+    text-align: center;
+    top:-350px ;
+    left: 2px;
+}
+.formulario{
+    position: relative;
+    font-size: 22px;
+    top: -270px;
+    left: 2px;
+}
+.img1{
+    position: relative;
+    top: -900px;
+    left: 25px;
+}
+
+.img2{
+    position: relative;
+    top: -1060px;
+    left: 340px;
+}
+
+.img3{
+    position: relative;
+    top: -1240px;
+    left: 720px;
+}
+
+.img4{
+    position: relative;
+    top: -1420px;
+    left: 1050px;
+}
+.imginicio{
+    position: relative;
+    top: 2px;
+    left: 60px;
+    
+}
+.img5{
+    position: relative;
+    top: -1200px;
+    left: 2px;
+}
+
+.img6{
+    position: relative;
+    top: -1470px;
+    left: 950px;
+
+}
